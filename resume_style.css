@@ -1,0 +1,80 @@
+body {
+        margin-left: auto; 
+        margin-right: auto; 
+        padding: 2px 1em 2px 1em;
+        max-width: 45em;   
+        background-color: #FFFFFF;
+        font-family: Times New Roman, Georgia, serif;
+        font-size: 1em;
+}
+
+#resume_header_name {
+        text-align: center;
+        font-weight: bold;
+        font-size: 2em;
+}
+
+#resume_header_address {
+        text-align: center;
+}
+
+h1 {
+        font-weight: bold;
+        font-size: 1.25em;
+        text-align: left;
+        margin-bottom: 0em;
+}
+
+h2 {
+        font-weight: bold;
+        font-size: 1em;
+        margin-top: 0em;
+        margin-bottom: 0em;
+}
+
+h3 {
+        font-style: italic;
+        font-weight: normal;
+        font-size: 1em;
+        margin-top: 0em;
+        margin-bottom: 0em;
+}
+
+hr { 
+        margin-top: 0em;
+        margin-bottom: 0.25em;
+        height: 3px;
+        border-width: 0px;
+        color: black;
+        background-color: black;
+}
+
+.place {
+        float: right;
+        text-align: right;
+        font-weight: bold;
+}
+
+.date {
+        float: right;
+        text-align: right;
+        font-weight: normal;
+        font-style: normal;
+}
+
+ul {
+        margin-left: +2em;
+}
+
+#education_list {
+        list-style-type: none;
+}
+
+.item_title {
+        font-weight: bold;
+}
+
+#interest_list {
+        margin-left: -2em;
+        list-style-type: none;
+}
