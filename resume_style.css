@@ -4,7 +4,7 @@ body {
         padding: 2px 1em 2px 1em;
         max-width: 45em;   
         background-color: #FFFFFF;
-        font-family: Times New Roman, Georgia, serif;
+        font-family: "Times New Roman", Georgia, serif;
         font-size: 1em;
 }
 
@@ -45,7 +45,6 @@ hr {
         margin-bottom: 0.25em;
         height: 3px;
         border-width: 0px;
-        color: black;
         background-color: black;
 }
 
