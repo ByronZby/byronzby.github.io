@@ -5,7 +5,7 @@ body {
         max-width: 45em;   
         background-color: #FFFFFF;
         font-family: "Times New Roman", Georgia, serif;
-        font-size: 1em;
+        font-size: 11pt;
 }
 
 #resume_header_name {
@@ -62,7 +62,8 @@ hr {
 }
 
 ul {
-        margin-left: +2em;
+        margin-top: 0em;
+        margin-left: -1em;
 }
 
 #education_list {
@@ -76,4 +77,14 @@ ul {
 #interest_list {
         margin-left: -2em;
         list-style-type: none;
+}
+
+.activity_position {
+        margin-left: 0.5em;
+        font-weight: normal;
+        font-style: italic;
+}
+
+.activity_list {
+        margin-bottom: 0.5em;
 }
